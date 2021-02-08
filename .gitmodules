@@ -1,0 +1,6 @@
+[submodule "rock-module"]
+	path = rock-module
+	url = https://github.com/saideep1011/rock-module.git
+[submodule "MyTestApp/rock-module"]
+	path = MyTestApp/rock-module
+	url = https://github.com/saideep1011/rock-module.git
